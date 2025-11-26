@@ -1,0 +1,63 @@
+# Datenschutzerklärung - RaceDay
+
+**Letzte Aktualisierung**: 26. November 2025
+
+## Übersicht
+
+RaceDay ist eine iOS-App zur Optimierung deines Triathlon-Trainings. Wir respektieren deine Privatsphäre und sammeln **keine personenbezogenen Daten**.
+
+## 1. Welche Daten nutzt RaceDay?
+
+RaceDay greift auf folgende Gesundheitsdaten in Apple Health zu:
+
+- **Schlafdaten** (Schlafdauer, Schlafphasen)
+- **Workout-Daten** (Trainingstyp, Dauer, Herzfrequenz während Training)
+- **Ruhepuls** (Resting Heart Rate)
+- **Herzfrequenzvariabilität** (HRV/SDNN)
+- **Körpergewicht**
+
+### Wichtig:
+- Alle Daten werden **ausschließlich lokal** auf deinem iPhone verarbeitet
+- **Keine Cloud**, **keine Server**, **keine Übertragung**
+- Du bestimmst in den HealthKit-Berechtigungen, welche Daten die App nutzen darf
+
+## 2. Wie werden die Daten verwendet?
+
+Die Gesundheitsdaten werden verwendet für:
+
+- **Recovery Score**: Berechnung deines täglichen Erholungsstatus basierend auf HRV, Ruhepuls, Schlaf und vorherigem Training
+- **Strain Berechnung**: Analyse deiner Trainingsbelastung basierend auf Herzfrequenz-Zonen und Trainingsdauer
+- **Race Readiness**: Einschätzung deiner Wettkampfbereitschaft durch Kombination von Recovery, Strain und Trainingsvolumen
+- **Trends-Analyse**: 30-Tage-Übersicht deiner wichtigsten Metriken
+
+Alle Berechnungen erfolgen **lokal auf deinem Gerät**. Es werden keine Daten an externe Server gesendet.
+
+## 3. Datenspeicherung
+
+- **Speicherort**: Alle Daten bleiben in Apple Health auf deinem iPhone
+- **App-Daten**: RaceDay speichert nur deine Wettkampf-Liste lokal (Name, Datum, Distanz)
+- **Keine Cloud**: Es gibt keine Cloud-Synchronisation oder Backup auf externen Servern
+- **Keine Account-Daten**: Außer Apple Sign In (optional) werden keine Nutzerdaten gespeichert
+
+## 4. Datenweitergabe
+
+**RaceDay gibt keine Daten an Dritte weiter. Punkt.**
+
+- ❌ Keine Analytics
+- ❌ Keine Werbung
+- ❌ Keine Tracking-Tools
+- ❌ Keine Server-Übertragung
+
+## 5. Apple Sign In (optional)
+
+Wenn du Apple Sign In nutzt:
+- Apple übermittelt nur deine Apple ID (verschlüsselt)
+- Optional: Name und E-Mail (nur wenn du zustimmst)
+- Diese Daten bleiben lokal auf deinem Gerät
+- RaceDay speichert keine Anmelde-Daten
+
+## 6. Deine Rechte
+
+Du hast jederzeit die volle Kontrolle:
+
+### HealthKit-Berechtigungen ändern:
